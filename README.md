@@ -22,6 +22,4 @@ I work with the computer for 6 hours almost every day, of which 2 hours are spen
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/182ebdc0e06f1d7d76a3ec044a3f77844b7b305c2056cc746274cba9e7c83386/68747470733a2f2f697266616e74617269712e636f6d2f696d616765732f62616e6e65722e676966">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirghaderian&theme=gruvbox&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirghaderian&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirghaderian&theme=gruvbox&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirghaderian&layout=compact)]
