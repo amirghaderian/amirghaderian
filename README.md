@@ -22,6 +22,4 @@ I work with the computer for 6 hours almost every day, of which 2 hours are spen
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirghaderian&theme=gruvbox&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amirghaderian&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirghaderian&layout=compact)]
