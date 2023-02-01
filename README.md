@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 I AM FRONTEND DEVELOPER ...  <br> 
 I love learning new technologies, program development, and working with a professional team.
 I work with the computer for 6 hours almost every day, of which 2 hours are spent on code development, 3 hours are spent on training and updating myself, and the rest are spent surfing the Interne!
-
+<img src="https://irfantariq.com/images/banner.gif"> <br>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://irfantariq.com/images/banner.gif">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirghaderian&theme=gruvbox&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirghaderian&layout=compact)]
