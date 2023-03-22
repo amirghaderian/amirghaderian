@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>The audio autoplay attribute</h1>
-<audio controls autoplay>
-  <source src="https://github.com/amirghaderian/amirghaderian/raw/main/Ambassador_Fairytale.mp3" type="audio/ogg">
-  <source src="https://github.com/amirghaderian/amirghaderian/raw/main/Ambassador_Fairytale.mp3" type="audio/mpeg">
-</audio>
-
 # ABOUT ME
 I AM FRONTEND DEVELOPER ...  <br> 
 I love learning new technologies, program development, and working with a professional team.🌱 <br>
