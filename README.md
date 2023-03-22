@@ -15,29 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <video autoplay  src="https://user-images.githubusercontent.com/122560444/226959059-5d50228e-2506-4386-b958-48e1c05319ac.mp4 ; autoplay"  >autoplay
+ <video   src="https://user-images.githubusercontent.com/122560444/226959059-5d50228e-2506-4386-b958-48e1c05319ac.mp4" autoplay  >
 </video>
 
 
 
 
+# pr
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1618&pause=1&color=F3F7C5&background=3D23FF00&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=700&lines=I+love+learning+new+technologies%2C+program+development;and+working+with+a+professional+team.%F0%9F%8C%B1;I+work+with+the+computer+for+6+hours+;almost+every+day%2C+of+which+2+hours+are+spent+on+code+development%2C+;3+hours+are+spent+on+training+and+updating+myself;and+the+rest+are+spent+surfing+the+Interne!+%F0%9F%98%84)](https://git.io/typing-svg)
 
 
 
 
-
-
-# ABOUT ME
+# About what I do every day
 I AM FRONTEND DEVELOPER ...  <br> 
 I love learning new technologies, program development, and working with a professional team.🌱 <br>
 I work with the computer for 6 hours almost every day, of which 2 hours are spent on code development, 3 hours are spent on training and updating myself, and the rest are spent surfing the Interne! 😄
-
-
-
-
-
-
-
 
 
 
