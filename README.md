@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <audio controls autoplay>
   <source src="https://github.com/amirghaderian/amirghaderian/raw/main/Ambassador_Fairytale.mp3" type="audio/ogg">
   <source src="https://github.com/amirghaderian/amirghaderian/raw/main/Ambassador_Fairytale.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 # ABOUT ME
