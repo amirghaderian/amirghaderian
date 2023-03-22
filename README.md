@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 Javascript, HTML, CSS, React, and ..
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirghaderian&theme=gruvbox&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirghaderian&layout=compact)
+![Anurag's GitHuBGFBFGBb stats](https://github-readme-stats.vercel.app/api?username=amirghaderian&theme=gruvbox&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirghaderian&layout=compact)
