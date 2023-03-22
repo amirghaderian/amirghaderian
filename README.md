@@ -14,10 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<video autoplay src="
+
+https://user-images.githubusercontent.com/122560444/226959059-5d50228e-2506-4386-b958-48e1c05319ac.mp4
+
+"></video>
+
+
+
 # ABOUT ME
 I AM FRONTEND DEVELOPER ...  <br> 
 I love learning new technologies, program development, and working with a professional team.🌱 <br>
 I work with the computer for 6 hours almost every day, of which 2 hours are spent on code development, 3 hours are spent on training and updating myself, and the rest are spent surfing the Interne! 😄
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  # =><img style="display: flex;-webkit-user-select: none;margin: auto;background;" src="https://camo.githubusercontent.com/182ebdc0e06f1d7d76a3ec044a3f77844b7b305c2056cc746274cba9e7c83386/68747470733a2f2f697266616e74617269712e636f6d2f696d616765732f62616e6e65722e676966">
  
