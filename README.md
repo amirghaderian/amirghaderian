@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # ABOUT ME
-
-<html>
-<body>
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
-</iframe>
-
-</body>
-</html>
-
 I AM FRONTEND DEVELOPER ...  <br> 
 I love learning new technologies, program development, and working with a professional team.🌱 <br>
 I work with the computer for 6 hours almost every day, of which 2 hours are spent on code development, 3 hours are spent on training and updating myself, and the rest are spent surfing the Interne! 😄
