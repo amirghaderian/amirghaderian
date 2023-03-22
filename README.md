@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <video autoplay  src="https://user-images.githubusercontent.com/122560444/226959059-5d50228e-2506-4386-b958-48e1c05319ac.mp4 ; autoplay"  >autoplay
+</video>
 
 
 
-<video autoplay src="
 
-https://user-images.githubusercontent.com/122560444/226959059-5d50228e-2506-4386-b958-48e1c05319ac.mp4
 
-"></video>
+
+
 
 
 
